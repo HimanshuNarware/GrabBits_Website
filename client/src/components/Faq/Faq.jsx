@@ -28,17 +28,17 @@ const Faq = () => {
         {
             id: 2,
             title: "What kind of resources do you provide?",
-            desc: "The resources related to coding can help you to learn it in a better way. Till now we have covered up - Remote job websites, best coding websites, and best gaming websites for programmers, etc.",
+            desc: "The resources related to coding can help you to learn it in a better way. Till now we have covered - Remote job websites, the best coding websites, and the best gaming websites for programmers, etc.",
         },
         {
             id: 3,
             title: "I ain’t active on Instagram, how can I access the resources & updates that you’re providing?",
-            desc: "Not to worry. We are active on Twitter, LinkedIn & WhatsApp also , so you can connect with us from any compatible platform.",
+            desc: "Not to worry. We are active on Twitter, LinkedIn & WhatsApp also, so you can connect with us from any compatible platform.",
         },
         {
             id: 4,
             title: "What kind of podcasts do you make?",
-            desc: "The podcast basically includes experience of individuals from industry folks, guiding students with their experience and sharing tips and tricks for a college student to grab a job offer.",
+            desc: "The podcast includes the experience of individuals from industry folks, guiding students with their experience and sharing tips and tricks for a college student to grab a job offer.",
         },
     ]
 

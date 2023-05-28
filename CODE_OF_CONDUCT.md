@@ -25,7 +25,7 @@ community include:
 * Focusing on what is best not just for us as individuals, but for the
   overall community
 
-Examples of unacceptable behavior include:
+Examples of unacceptable behavior includes:
 
 * The use of sexualized language or imagery, and sexual attention or
   advances of any kind
@@ -105,7 +105,7 @@ Violating these terms may lead to a permanent ban.
 
 ### 4. Permanent Ban
 
-**Community Impact**: Demonstrating a pattern of violation of community
+**Community Impact**: Demonstrating a pattern of violation of the community
 standards, including sustained inappropriate behavior,  harassment of an
 individual, or aggression toward or disparagement of classes of individuals.
 

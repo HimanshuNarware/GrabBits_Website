@@ -27,7 +27,7 @@ Refer to the following articles on the basics of Git and GitHub and feel free to
 
 ## ⭐ How to make a pull request  
 
-**1.** Fork [this](https://github.com/GrabBits/GrabBits_Website/fork) repository. Click on "Fork" from top right corner.
+**1.** Fork [this](https://github.com/GrabBits/GrabBits_Website/fork) repository. Click on "Fork" from the top right corner.
 
 **2.** Clone the forked repository.
 

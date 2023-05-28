@@ -10,14 +10,14 @@ export const About = () => {
 				<div className={classes.head}>Who We Are ?</div>
 				<div className={classes.subHead}>
 					<p>
-						Grab bit is a community made by the students for the students. That
-						ensures every opportunity meant for students should reach to them at
+					Grab Bits is a community made by the students for the students. That
+						ensures every opportunity meant for students should reach them at
 						earliest.{' '}
 					</p>
 					<p>
-						We share latest intern opportunities, hackathons, coding contests
-						along with that some useful resources to prepare for the same.. This
-						info is spread via their Instagram, Whatsapp, LinkedIn and Twitter
+					We share the latest intern opportunities, hackathons, coding contests
+						along with that some useful resources to prepare for the same. This
+						info is spread via their Instagram, Whatsapp, LinkedIn, and Twitter
 						handles. You can follow us from anywhere..
 					</p>
 					<p>We&apos;ve started broadcasting a podcasts as well...</p>

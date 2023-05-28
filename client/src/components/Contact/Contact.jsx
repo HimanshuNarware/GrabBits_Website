@@ -76,7 +76,7 @@ const Contact = () => {
 					<div className={classes.contact_info}>
 						<h3 className={classes.title}>We would love to hear from you ! 	</h3>
 						<p className={classes.text}>
-						Whether you’re curious about GrabBit, have any doubts, want to do any kind of sponsorships - we’re ready to answer all of your queries. 
+						Whether you’re curious about GrabBit, have any doubts, or want to do any kind of sponsorship - we’re ready to answer all of your queries. 
 						</p>
 						<div className={classes.info}>
 							<div className={classes.information}>
